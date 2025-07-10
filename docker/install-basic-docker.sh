@@ -45,7 +45,3 @@ echo "✅ Docker Compose version:"
 docker compose version
 
 echo "✅ Installation complete. You may need to log out and log back in for group changes to apply."
-
-
-
-I want to put this in github and use this as bash script
