@@ -11,6 +11,13 @@ Business intelligence and analytics platform.
 curl -fsSL https://raw.githubusercontent.com/twofourlabs/scripts/refs/heads/master/tools/metabase.yml | docker-compose -f - up -d
 ```
 
+### Redis
+In-memory data structure store, used as a database, cache, and message broker.
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/twofourlabs/scripts/refs/heads/master/tools/redis.yml | docker-compose -f - up -d
+```
+
 ## Prerequisites
 
 - Docker
