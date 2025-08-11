@@ -18,4 +18,12 @@ Open source business intelligence tool for interactive dashboards and analytics.
 **Quick start:**
 ```bash
 curl -fsSL https://raw.githubusercontent.com/twofourlabs/scripts/refs/heads/master/docker/metabase.yml | docker compose -f - up -d
-``` 
+```
+
+### n8n
+Open source workflow automation tool that allows you to connect different services and automate workflows.
+
+**Quick start:**
+```bash
+curl -fsSL https://raw.githubusercontent.com/twofourlabs/scripts/refs/heads/master/docker/n8n.yml | docker compose -f - up -d
+```
